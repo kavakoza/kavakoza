@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<table center>
+  <tr>
+    <td>
+        <a href="#">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tigran-saatchyan&theme=transparent" alt="Top Langs">
+    </a>
+    </td>
+    <td>
+         <a href="https://www.codewars.com/users/PythonisTiko">
+      <img src="https://www.codewars.com/users/kavakoza/badges/large" alt="codewars">
+    </a><br>
+    </td>
+  </tr>
+</table>
+
+https://www.codewars.com/users/kavakoza

@@ -1,4 +1,4 @@
-# 👋Hello there! <br> I'm Tanya, a passionate Python developer. <br> Here's a bit about me:
+## 👋Hello there! <br> I'm Tanya, a passionate Python developer. <br> Here's a bit about me:
 
 🌱 I'm always eager to learn and explore new technologies.<br>
 📚 Constantly evolving and growing in the vast world of Python and coding in general.<br>

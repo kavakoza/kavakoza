@@ -8,6 +8,9 @@ Happy coding! 🚀
 
 ![](https://komarev.com/ghpvc/?username=kavakoza) 
 
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 <table center>
     <td>
          <a href="https://www.codewars.com/users/kavakoza">

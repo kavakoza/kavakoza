@@ -42,7 +42,7 @@ Here are some ideas to get you started:
     </a>
     </td>-->
     <td>
-         <a href="https://www.codewars.com/users/PythonisTiko">
+         <a href="https://www.codewars.com/users/kavakoza">
       <img src="https://www.codewars.com/users/kavakoza/badges/large" alt="codewars">
     </a><br>
     </td>

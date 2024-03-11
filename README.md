@@ -15,19 +15,12 @@ Happy coding! 🚀
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kavakoza&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!---
+-->
+
 <table center>
     <td>
          <a href="https://www.codewars.com/users/kavakoza">
       <img src="https://www.codewars.com/users/kavakoza/badges/large" alt="codewars">
-    </a><br>
-    </td>
-  </tr>
-</table>
--->
-<table center>
-    <td>
-         <a href="https://badges.kavakoza.ch/leetcode/kavakoza/name">
-         <a href="https://badges.kavakoza.ch/leetcode/kavakoza/solved?difficulty=<value>">
     </a><br>
     </td>
   </tr>

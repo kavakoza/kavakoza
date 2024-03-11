@@ -28,7 +28,6 @@ Happy coding! 🚀
     <td>
          <a href="https://badges.peiyuan.ch/leetcode/{kavakoza}/name">
          <a href="https://badges.peiyuan.ch/leetcode/{kavakoza}/solved?difficulty=<value>">
-      <img src="https://www.codewars.com/users/kavakoza/badges/large" alt="codewars">
     </a><br>
     </td>
   </tr>

@@ -26,8 +26,8 @@ Happy coding! 🚀
 -->
 <table center>
     <td>
-         <a href="https://badges.peiyuan.ch/leetcode/kavakoza/name">
-         <a href="https://badges.peiyuan.ch/leetcode/kavakoza/solved?difficulty=<value>">
+         <a href="https://badges.kavakoza.ch/leetcode/kavakoza/name">
+         <a href="https://badges.kavakoza.ch/leetcode/kavakoza/solved?difficulty=<value>">
     </a><br>
     </td>
   </tr>

@@ -14,6 +14,8 @@ Happy coding! 🚀
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kavakoza&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![LeetCode Badge](https://leetcode-badge.chiyuan.vercel.app/api/leetcode/kavakoza)
+
 <!---
 -->
 <!---
